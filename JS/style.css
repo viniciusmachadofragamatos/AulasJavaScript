@@ -1,0 +1,12 @@
+ body{
+    text-align: center;
+}
+.start{
+    background-color: green;
+    text-align: center;
+}
+.stop{
+    background-color: red;
+    text-align: center;
+
+ }
